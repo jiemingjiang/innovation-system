@@ -1,0 +1,8 @@
+{
+  "workbook": "区域创新生态指数_最终版_含熵值法过程(1).xlsx",
+  "sha256": "17bce87e8dd2ed7cde15f635c1195de10b08d060cac38b24ca84942a2010a7b8",
+  "document": "实证部分(1).docx",
+  "document_sha256": "22e44ede8f8e20f765aa7e84d0ca027146e1d564749eb1e532503a2a94ad5c83",
+  "extracted_on": "2026-10-13",
+  "note": "源工作簿为插值后的最终数据；没有逐单元格插值标记，无法识别哪些观测被插值。"
+}
